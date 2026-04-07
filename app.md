@@ -6,7 +6,7 @@ Training maps configuration:
 
 ![Maze2D Training Maps](maze_maps.png)
 
-*Figure: Eight training maps used in Maze2D multi-task experiments, ranging from simple (5×5) to complex (8×10) layouts.*
+*Figure 1: Eight training maps used in Maze2D multi-task experiments, ranging from simple (5×5) to complex (8×10) layouts.*
 
 | Task | Ours | PromptDT |
 |------|------|----------|
@@ -20,7 +20,7 @@ Training maps configuration:
 | maze2d-8 | 0.0 | 0.0 |
 | **Average** | **36.9** | **18.2** |
 
-*Table: Average return on 8 Maze2D training maps.*
+*Table 1: Average return on 8 Maze2D training maps.*
 
 ---
 
@@ -30,7 +30,7 @@ Training maps configuration:
 |---|---|---|---|
 | MT30 | 89.33 | 89.67 | 88.67 |
 
-*Table: Ablation on ϵ threshold in ARATC.*
+*Table 2: Ablation on ϵ threshold in ARATC.*
 
 ---
 
@@ -44,4 +44,4 @@ Training maps configuration:
 | button-press-v2 | 20 | 10 | 19 |
 | button-press-wall-v2 | 10 | 21 | 27 |
 
-*Table: Learned prompt lengths for representative tasks under MT5, MT30 near-optimal, and MT30 sub-optimal settings.*
+*Table3 : Learned prompt lengths for representative tasks under MT5, MT30 near-optimal, and MT30 sub-optimal settings.*
