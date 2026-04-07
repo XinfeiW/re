@@ -40,8 +40,8 @@ Training maps configuration:
 
 | Task | MT5 | MT30 near-optimal | MT30 sub-optimal |
 |------|-----|-------------------|------------------|
-| **basketball-v2** | 18 | 24 | 36 |
-| **reach-v2** | 8 | 6 | 10 |
+| ***basketball-v2*** | 18 | 24 | 36 |
+| ***reach-v2*** | 8 | 6 | 10 |
 | button-press-topdown-v2 | 10 | 20 | 26 |
 | button-press-v2 | 20 | 10 | 19 |
 | button-press-wall-v2 | 10 | 21 | 27 |
