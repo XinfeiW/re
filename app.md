@@ -8,6 +8,8 @@ Training maps configuration:
 
 *Figure 1: Eight training maps used in Maze2D multi-task experiments, ranging from simple (5×5) to complex (8×10) layouts.*
 
+
+
 | Task | Ours | PromptDT |
 |------|------|----------|
 | maze2d-1 | 106.5 | 48.0 |
