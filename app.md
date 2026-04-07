@@ -30,7 +30,7 @@ Training maps configuration:
 |---|---|---|---|
 | MT30 | 89.33 | 89.67 | 88.67 |
 
-*Table: Ablation on ϵ threshold in ARATC across different return scaling settings.*
+*Table: Ablation on ϵ threshold in ARATC.*
 
 ---
 
